@@ -20,9 +20,9 @@ image: >-
 ## EP.2 Brainstorming
 
 After knowing you're so pain point, we discuss about what if there is a scenario when we want to do a sport that doesn't have any friend to do it together and we think of this example Empathy map.
-![TUM Empathy Map](https://github.com/BXSS101/my-react-portfolio/blob/main/photo/Cover_TUM.png?raw=true)
+![TUM Empathy Map](https://github.com/BXSS101/my-react-portfolio/blob/main/photo/TUM/UXUI%202_64%20CE%20%5B%20Project%20III%20%5D%20G1_Page_05.jpg?raw=true)
 From our example scenario a user ask friend out to try Wakeboard together and a friend doesn't know how to play it or not many friends know how to play this sport, so the one who doesn't know how to play decide not to go with him/her, that means our user doesn't have so much company or maybe doesn't have any at all.
-![TUM HMW](https://github.com/BXSS101/my-react-portfolio/blob/main/photo/Cover_TUM.png?raw=true)
+![TUM HMW](https://github.com/BXSS101/my-react-portfolio/blob/main/photo/TUM/UXUI%202_64%20CE%20%5B%20Project%20III%20%5D%20G1_Page_06.jpg?raw=true)
 From this photo, it's when we're brainstorming about how might we in many situations and here are our top 4 ideas.
 - How might we have friends to do activity together?
 - How might we find someone to share buy 3 get 4 promotion together?
