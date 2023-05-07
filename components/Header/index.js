@@ -39,6 +39,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   >
                     <img
                       className="h-6"
+                      alt="light/dark mode switch"
                       src={`/images/${
                         theme === "dark" ? "moon.svg" : "sun.svg"
                       }`}
@@ -49,6 +50,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 <Popover.Button>
                   <img
                     className="h-5"
+                    alt="light/dark mode switch"
                     src={`/images/${
                       !open
                         ? theme === "dark"
@@ -154,6 +156,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               >
                 <img
                   className="h-6"
+                  alt="light/dark mode switch"
                   src={`/images/${theme === "dark" ? "moon.svg" : "sun.svg"}`}
                 ></img>
               </Button>
@@ -184,6 +187,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               >
                 <img
                   className="h-6"
+                  alt="light/dark mode switch"
                   src={`/images/${theme === "dark" ? "moon.svg" : "sun.svg"}`}
                 ></img>
               </Button>
