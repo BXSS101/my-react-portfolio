@@ -78,5 +78,5 @@
 /* Image */
 
 .markdown-class img {
-  @apply max-h-96 max-w-2xl mx-auto my-5 object-cover rounded-lg shadow-lg;
+  @apply max-h-96 mx-auto my-5 object-cover rounded-lg shadow-lg;
 }

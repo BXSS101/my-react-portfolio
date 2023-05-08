@@ -1,6 +1,6 @@
 ---
 date: '2022-08-01T11:50:54.000Z'
-title: The making of TrueID
+title: The making of TrueID (Coming Soon)
 tagline: '[App Design], [Mobile Application], [Streaming]'
 preview: >-
   Explore how Me & My Team Study from user problems, and trying to improve
