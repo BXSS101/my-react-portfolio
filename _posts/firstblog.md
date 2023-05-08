@@ -33,35 +33,13 @@ From this photo, it's when we're brainstorming about how might we in many situat
 
 ## EP.3 Design
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+After we got the idea of event & join, our users must create an event to allow other people to join their event or they can joint other existing event.
+![TUM LOFI](https://github.com/BXSS101/my-react-portfolio/blob/main/photo/TUM/tum_lofi.jpg?raw=true)
+From this wireframe shows that I can browse events, or can create event by themself.
 
-
-## BLockquote
-
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-## Ordered List with horizontal line
-
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
 
 ---
 
-## Unordered List With Horizontal line
+## Test Prorotype
 
-- First item
-- Second item
-- Third item
-- Fourth item
-
----
-
-## Links
-
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-
-## Images
-
-![An old rock in the desert](https://images.unsplash.com/photo-1654475677192-2d869348bb4c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+Figma Prototype [Click Here](https://www.figma.com/proto/z8zVsWjY5clA4s4Qi8vI1g/T-U-M-Together-Anything?page-id=7%3A29&type=design&node-id=139-1465&viewport=1073%2C84%2C0.49&scaling=scale-down&starting-point-node-id=139%3A1465)
