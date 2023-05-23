@@ -48,6 +48,11 @@ Our **Watch Party** feature allows users to watch content together in a private 
 The **Movie Mix** feature is designed to match users with others who share the same movie genre interests. By recommending movies based on those interests, users can discover new movies to try. Additionally, Movie Mix creates a community forum where users can communicate and discuss their shared interests. This feature enhances user engagement and encourages community building within the app.
 
 ---
+
+## EP.3 Design
+
 Will those feature work?, Does user like it?, How it will be improve?
 
 To be continue.
+
+Spoiler Alert! I got top performer award from my internship.
