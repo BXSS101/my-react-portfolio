@@ -28,13 +28,7 @@ True Academy is an internship program that offers students from diverse academic
 During our user research, we discovered that while the TrueID app offered a plethora of features, not all users found them equally useful or easy to navigate. Some users found the app overwhelming due to the abundance of features, making it difficult for them to find what they were looking for. For example, the screenshot showed a cluttered page with numerous buttons, and most users had to scroll at least once to reach the content shelf.
 Here are some feedback from our survey and research ↓
 
-> Buttons should be easier to navigate.
----
-> There is better platform for streaming content.
----
-> App should improve reliability.
-
-Once we had identified the pain points experienced by our users, we set our project goals. Our primary objective was to address the lack of a community feature within the app, providing users with a space to engage with others who share their interests. Our secondary goal was to enhance the app's usability, making it easier for users to navigate and locate the features they need.
+![CommentPhoto](https://github.com/BXSS101/my-react-portfolio/blob/main/photo/TrueID/comment_quote.jpg?raw=true)
 
 ---
 
@@ -55,4 +49,4 @@ Will those feature work?, Does user like it?, How it will be improve?
 
 To be continue.
 
-Spoiler Alert! I got top performer award from my internship.
+**Spoiler Alert!** I got top performer award from my internship.
