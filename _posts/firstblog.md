@@ -13,10 +13,6 @@ image: >-
 
 Figma Prototype [Click Here](https://www.figma.com/proto/z8zVsWjY5clA4s4Qi8vI1g/T-U-M-Together-Anything?page-id=7%3A29&type=design&node-id=139-1465&viewport=1073%2C84%2C0.49&scaling=scale-down&starting-point-node-id=139%3A1465)
 
-'''
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fz8zVsWjY5clA4s4Qi8vI1g%2FT-U-M-Together-Anything%3Fpage-id%3D7%253A29%26type%3Ddesign%26node-id%3D139-1465%26viewport%3D568%252C97%252C0.17%26scaling%3Dscale-down%26starting-point-node-id%3D139%253A1465" allowfullscreen></iframe>
-'''
-
 ## EP.1 Pain Point
 
 The phrase that catalyzed my current train of thought was, **"Fine, I can do it alone as always."** This occurred when I invited some friends to a buffet, and they were unable to join me. Subsequently, I conducted some informal interviews with several individuals, who corroborated that they, too, have experienced a similar problem. Moreover, some of them expressed that they dislike engaging in activities alone, as it makes them feel isolated.
