@@ -11,6 +11,7 @@ image: >-
   https://github.com/BXSS101/my-react-portfolio/blob/main/photo/Cover_TUM.png?raw=true
 ---
 
+Duration: 2 Months [March - April 2022]
 Figma Prototype [Click Here](https://www.figma.com/proto/z8zVsWjY5clA4s4Qi8vI1g/T-U-M-Together-Anything?page-id=7%3A29&type=design&node-id=139-1465&viewport=1073%2C84%2C0.49&scaling=scale-down&starting-point-node-id=139%3A1465)
 
 ## EP.1 Pain Point
