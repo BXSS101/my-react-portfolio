@@ -74,7 +74,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   <Button onClick={handleWorkScroll}>Work</Button>
                   <Button onClick={handleAboutScroll}>About</Button>
                   {showBlog && (
-                    <Button onClick={() => router.push("/blog")}>Blog</Button>
+                    <Button onClick={() => router.push("/blog")}>📝 Blog</Button>
                   )}
                   {showResume && (
                     <Button
@@ -82,14 +82,14 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                         window.open("mailto:ackrawinboonpuen@gmail.com")
                       }
                     >
-                      Resume
+                      👨‍💻 Resume
                     </Button>
                   )}
 
                   <Button
                     onClick={() => window.open("mailto:ackrawinboonpuen@gmail.com")}
                   >
-                    Email Me
+                    📨 Email Me ↗
                   </Button>
                 </div>
               ) : (
@@ -98,21 +98,21 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                     Home
                   </Button>
                   {showBlog && (
-                    <Button onClick={() => router.push("/blog")}>Blog</Button>
+                    <Button onClick={() => router.push("/blog")}>📝 Blog</Button>
                   )}
                   {showResume && (
                     <Button
                       onClick={() => router.push("/resume")}
                       classes="first:ml-1"
                     >
-                      Resume
+                      👨‍💻 Resume
                     </Button>
                   )}
 
                   <Button
                     onClick={() => window.open("mailto:ackrawinboonpuen@gmail.com")}
                   >
-                    Email Me
+                    📨 Email Me ↗
                   </Button>
                 </div>
               )}
@@ -136,19 +136,19 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             <Button onClick={handleWorkScroll}>Work</Button>
             <Button onClick={handleAboutScroll}>About</Button>
             {showBlog && (
-              <Button onClick={() => router.push("/blog")}>Blog</Button>
+              <Button onClick={() => router.push("/blog")}>📝 Blog</Button>
             )}
             {showResume && (
               <Button
                 onClick={() => router.push("/resume")}
                 classes="first:ml-1"
               >
-                Resume
+                👨‍💻 Resume
               </Button>
             )}
 
             <Button onClick={() => window.open("mailto:ackrawinboonpuen@gmail.com")}>
-              Email Me
+            📨 Email Me ↗
             </Button>
             {mounted && theme && data.darkMode && (
               <Button
@@ -166,19 +166,19 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
           <div className="flex">
             <Button onClick={() => router.push("/")}>Home</Button>
             {showBlog && (
-              <Button onClick={() => router.push("/blog")}>Blog</Button>
+              <Button onClick={() => router.push("/blog")}>📝 Blog</Button>
             )}
             {showResume && (
               <Button
                 onClick={() => router.push("/resume")}
                 classes="first:ml-1"
               >
-                Resume
+                👨‍💻 Resume
               </Button>
             )}
 
             <Button onClick={() => window.open("mailto:ackrawinboonpuen@gmail.com")}>
-              Email Me
+               📨 Email Me ↗
             </Button>
 
             {mounted && theme && data.darkMode && (
